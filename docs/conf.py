@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'DIY open-source vaporizer'
+project = 'MOGOOOL'
 copyright = '2019, Nick K.'
 author = 'Nick K.'
 
