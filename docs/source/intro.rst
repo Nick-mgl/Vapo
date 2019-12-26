@@ -1,3 +1,6 @@
+Introduction
+============
+
 Hello, my dear friend. I am happy to know that you found this page. I hope that you will find some interesting information here that will help you to get you on a new level.
 
 If you are here, I can make several assumptions. First, you are probably interested in the subject of cannabis, second, you are a creative person, and you are looking for an opportunity to fulfill your intention to create. I am just like you.
