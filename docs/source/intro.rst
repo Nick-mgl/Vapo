@@ -5,6 +5,9 @@ Hello, my dear friend. I am happy to know that you found this page. I hope that 
 
 If you are here, I can make several assumptions. First, you are probably interested in the subject of cannabis, second, you are a creative person, and you are looking for an opportunity to fulfill your intention to create. I am just like you.
 
+Who am I?
+----------
+
 So let me explain why being creator is great. I will explain it on the example of my device. But, It does not necessarily mean that being a creator is to create an electronic device. Being a creator means doing something new to you. Not something new to humanity. If you start doing something new, you change your reality. And this is the purpose of every creator.
 
 You can come up with a new approach to teach people or to manage people. Or you can write a poem. Or draw a picture. Or start video blogging. But I did my first electronic device.
