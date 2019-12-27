@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'MOGOOOL'
-copyright = '2019, Nick K.'
+copyright = '2019, MOGOOOL'
 author = 'Nick K.'
 
 # The full version, including alpha/beta/rc tags
@@ -57,7 +57,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'bizstyle'
+html_theme = 'default'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
