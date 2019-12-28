@@ -7,7 +7,7 @@ This project is distributed under Attribution-ShareAlike license:
 .. image:: https://i.creativecommons.org/l/by-sa/4.0/88x31.png
    :target: http://creativecommons.org/licenses/by-sa/4.0/
    :alt: Creative Commons
-    
+ 
 **************************
 Welcome! 
 **************************
