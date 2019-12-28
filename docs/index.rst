@@ -1,4 +1,13 @@
 
+
+.. image:: https://i.creativecommons.org/l/by-sa/4.0/88x31.png
+   :target: http://creativecommons.org/licenses/by-sa/4.0/
+   :alt: Creative Commons
+
+If you would like to share this information with somebody, please lead them to the official website of the project - www.mogoool.com_
+
+.. _www.mogoool.com: https://www.mogoool.com
+
 Welcome! 
 ==========================
 
