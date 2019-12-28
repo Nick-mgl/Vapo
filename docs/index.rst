@@ -6,7 +6,7 @@
 
 .. |text2| replace:: This project is distributed under Attribution-ShareAlike license:
  
-.. |pic12 image:: https://i.creativecommons.org/l/by-sa/4.0/88x31.png
+.. |pic2| image:: https://i.creativecommons.org/l/by-sa/4.0/88x31.png
    :target: http://creativecommons.org/licenses/by-sa/4.0/
    :alt: Creative Commons
 
