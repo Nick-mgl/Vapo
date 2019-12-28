@@ -29,7 +29,9 @@
 Welcome! 
 **************************
 
-I do not promise you that the way you chose will be simple, but the result will be rewarding. Please keep in mind that my goal here is to share with you my knowledge and make you believe that you can do everything (if you want). If you are looking for a cheaper way to get a good vaporizer, probably, this website is not for you. However, even in this case, I suggest you pay a little bit more attention to the information represented here. I am sure you can find this project interesting for you too. 
+I do not promise you that the way you chose will be simple, but the result will be rewarding. Please keep in mind that my goal here is to share with you my knowledge and make you believe that you can do everything (if you want). If you are looking for a cheaper way to get a good vaporizer, probably, this website is not for you. However, even in this case, I suggest you pay a little bit more attention to the information represented here. I am sure you can find this project interesting for you too.
+
+Please, follow my instructions. If you have some questions, ask me or other people. By finishing the whole process you will have a small piece of your great creativity. And finally, you will realize, that you actually can do anything, because you have beautiful minded, and you are great. 
 
 **************************
 Contents - IN PROGRESS:
