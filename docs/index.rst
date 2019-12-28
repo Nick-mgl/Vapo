@@ -4,9 +4,9 @@
 
 .. _www.mogoool.com: https://www.mogoool.com
 
-.. |text3| replace:: The GitHub page of the project - Nick-mgl/Vapo_
+.. |text3| replace:: The GitHub_ page of the project
 
-.. _Nick-mgl/Vapo: https://github.com/Nick-mgl/Vapo
+.. _GitHub: https://github.com/Nick-mgl/Vapo
 
 https://github.com/Nick-mgl/Vapo
 
@@ -42,3 +42,15 @@ Contents:
     
    source/intro
    source/purpose
+
+**************************
+Disclaimer:
+**************************
+
+This website does not promote any kind of drug consumption. All the information on this website is intended to inspire visitors to educate themselves.
+
+Some of the technologies described here should be applied only after proper training or with the help of an experienced person. Please, take this notice extremely seriously.
+
+The materials used to create an electronic device can be harmful to health. Please, carefully read the specification of the materials and make sure that they are properly applied.
+
+The author does not hold any responsibility for any harm or losses that the user of this website got or caused while the production process or usage of the resulted device.
