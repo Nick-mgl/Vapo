@@ -8,12 +8,13 @@
  
 .. |pic2| image:: https://i.creativecommons.org/l/by-sa/4.0/88x31.png
    :target: http://creativecommons.org/licenses/by-sa/4.0/
+   :align: center
    :alt: Creative Commons
 
 +---------+---------+-----------+-----------+
 |       |text1|     |                       |
 |                   |                       |
-|       |text2|     |  |pic1|               |
+|       |text2|     |         |pic1|        |
 |                   |                       |
 |       |pic2|      |                       |
 |                   |                       |
