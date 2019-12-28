@@ -12,7 +12,7 @@ Being a creator is great. It does not necessarily mean that you must create an e
 I made an electronic device, I enjoyed it, and I want to share it with you.
 
 About me
-==================
+-----------------
 
 My name is Nick. I was born in 1984. I had been working in the financial industry for almost all my career, but I always was an engineer by nature. 
 
@@ -23,14 +23,14 @@ Second I am a strong believer in smart consumption, responsible consumption, con
 I can call myself “creator” now. And I want you to enjoy this powerful feeling.
 
 The purpose of the project
-==================
+-----------------
 
 The purpose of the project is to give people another opportunity to learn something cool. Especially for those who empower their creativity with the help of cannabis. Those people are the most curious to live. Those who want to go further in their way of self-development. People, who smoke cannabis in major try to overcome their abilities and be open-minded to many things. Therefore, I believe that there is a group of people who will be interested to repeat what I did and get a beautiful piece of their creativity. They will make something functional and cool from a bunch of different materials.
 
 I hope you are one of them. If so, I can promise to you that you will have fun, when you finally turn the device on and make the first shot. You will understand that you actually CAN create. You can make your dreams come true. 
 
 Smart consumptions concept
-==================
+-----------------
 
 *“The key to living without regrets is accepting responsibility for your own decisions and staying committed to a full and productive life - not mindless obedience”*
 
