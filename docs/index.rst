@@ -4,7 +4,7 @@ The official website of the project - www.mogoool.com_
 
 This project is distributed under Attribution-ShareAlike license:
  
-.. figure::https://i.creativecommons.org/l/by-sa/4.0/88x31.png
+.. figure:: https://i.creativecommons.org/l/by-sa/4.0/88x31.png
    :target: http://creativecommons.org/licenses/by-sa/4.0/
    :alt: Creative Commons
 
