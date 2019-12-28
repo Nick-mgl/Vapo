@@ -33,7 +33,7 @@ I do not promise you that the way you chose will be simple, but the result will 
 
 Please, follow my instructions. If you have some questions, ask me or other people. By finishing the whole process you will have a small piece of your great creativity. And finally, you will realize, that you actually can do anything, because you have beautiful mind, and you are great. 
 
-This website is **under development**. The documentation will be published step-by-step. Please **SUBSCRIBE_** to receive updates.
+This website is **under development**. The documentation will be published step-by-step. Please SUBSCRIBE_ to receive updates.
 
 .. _SUBSCRIBE: https://www.mogoool.com/subscribe
 
