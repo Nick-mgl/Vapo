@@ -7,4 +7,6 @@ Being a creator is great. It does not necessarily mean that you must create an e
 
 I did my first electronic device, I enjoyed it, and I want to share it with you.
 
-Please visit the website of the project [MOGOOOL.COM](http://mogoool.com)
+Please visit the website of the project MOGOOOL_
+
+.. _MOGOOOL: https://mogoool.com
