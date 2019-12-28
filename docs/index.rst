@@ -1,3 +1,7 @@
+
+
+.. figure:: files/images/pic_mainpage.png
+
 The official website of the project - www.mogoool.com_
 
 .. _www.mogoool.com: https://www.mogoool.com
