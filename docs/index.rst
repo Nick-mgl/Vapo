@@ -39,7 +39,6 @@ Contents - IN PROGRESS:
    :maxdepth: 2
     
    source/intro
-   source/purpose
 
 **************************
 Disclaimer:
