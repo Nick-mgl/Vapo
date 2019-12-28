@@ -4,6 +4,12 @@
 
 .. _www.mogoool.com: https://www.mogoool.com
 
+.. |text3| replace:: The GitHub page of the project - Nick-mgl/Vapo_
+
+.. _Nick-mgl/Vapo: https://github.com/Nick-mgl/Vapo
+
+https://github.com/Nick-mgl/Vapo
+
 .. |text2| replace:: This project is distributed under Attribution-ShareAlike license:
  
 .. |pic2| image:: https://i.creativecommons.org/l/by-sa/4.0/88x31.png
@@ -13,7 +19,9 @@
 +---------+---------+-----------+-----------+
 |       |text1|     |                       |
 |                   |                       |
-|       |text2|     |         |pic1|        |
+|       |text3|     |                       |
+|                   |         |pic1|        |
+|       |text2|     |                       |
 |                   |                       |
 |       |pic2|      |                       |
 |                   |                       |
