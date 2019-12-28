@@ -1,16 +1,26 @@
 
 
-.. figure:: files/images/pic_mainpage.png
-
-The official website of the project - www.mogoool.com_
+.. |pic1| figure:: files/images/pic_mainpage.png
+    :width: 314pt
+    :height: 338pt
+    
+.. |text1| replace:: The official website of the project - www.mogoool.com_
 
 .. _www.mogoool.com: https://www.mogoool.com
 
-This project is distributed under Attribution-ShareAlike license:
+.. |text2| replace:: This project is distributed under Attribution-ShareAlike license:
  
-.. figure:: https://i.creativecommons.org/l/by-sa/4.0/88x31.png
+.. |pic2| figure:: https://i.creativecommons.org/l/by-sa/4.0/88x31.png
    :target: http://creativecommons.org/licenses/by-sa/4.0/
    :alt: Creative Commons
+
++---------+---------+-----------+
+|       |text1|     |           |
+|                   |           |
+|       |text2|     |  |pic1|   |
+|                   |           |
+|       |pic2|      |           |
++---------+---------+-----------+
 
 **************************
 Welcome! 
