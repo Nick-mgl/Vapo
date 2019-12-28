@@ -1,6 +1,4 @@
-
-
-.. |pic1| figure:: files/images/pic_mainpage.png
+.. |pic1| image:: files/images/pic_mainpage.png
     :width: 314pt
     :height: 338pt
     
