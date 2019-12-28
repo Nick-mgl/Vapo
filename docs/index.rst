@@ -1,6 +1,4 @@
 .. |pic1| image:: files/images/pic_mainpage.png
-    :width: 314pt
-    :height: 338pt
     
 .. |text1| replace:: The official website of the project - www.mogoool.com_
 
@@ -8,17 +6,18 @@
 
 .. |text2| replace:: This project is distributed under Attribution-ShareAlike license:
  
-.. |pic2| figure:: https://i.creativecommons.org/l/by-sa/4.0/88x31.png
+.. |pic12 image:: https://i.creativecommons.org/l/by-sa/4.0/88x31.png
    :target: http://creativecommons.org/licenses/by-sa/4.0/
    :alt: Creative Commons
 
-+---------+---------+-----------+
-|       |text1|     |           |
-|                   |           |
-|       |text2|     |  |pic1|   |
-|                   |           |
-|       |pic2|      |           |
-+---------+---------+-----------+
++---------+---------+-----------+-----------+
+|       |text1|     |                       |
+|                   |                       |
+|       |text2|     |  |pic1|               |
+|                   |                       |
+|       |pic2|      |                       |
+|                   |                       |
++---------+---------+-----------+-----------+
 
 **************************
 Welcome! 
