@@ -8,8 +8,6 @@
 
 .. _GitHub: https://github.com/Nick-mgl/Vapo
 
-https://github.com/Nick-mgl/Vapo
-
 .. |text2| replace:: This project is distributed under Attribution-ShareAlike license:
  
 .. |pic2| image:: https://i.creativecommons.org/l/by-sa/4.0/88x31.png
@@ -34,11 +32,11 @@ Welcome!
 I do not promise you that the way you chose will be simple, but the result will be rewarding. Please keep in mind that my goal here is to share with you my knowledge and make you believe that you can do everything (if you want). If you are looking for a cheaper way to get a good vaporizer, probably, this website is not for you. However, even in this case, I suggest you pay a little bit more attention to the information represented here. I am sure you can find this project interesting for you too. 
 
 **************************
-Contents:
+Contents - IN PROGRESS:
 **************************
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
     
    source/intro
    source/purpose
