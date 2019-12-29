@@ -36,6 +36,7 @@ Smart consumptions concept
 
 Steve DeAngelo, “The manifesto of cannabis”
 
-Herbs should help you to grow, to become better. If you decided to consume it, be resposible for your life, your behaviour, and everything that happens to you. Respect other people, and try to figure out how to benefit from consuming herbs.
+Herbs should help you to grow, to become better. If you decided to consume it, be responsible for your life, your behavior, and everything that happens to you. Respect other people, and try to figure out how to benefit from consuming herbs.
 
 I want to support the idea of smart consumption with my project. You can not just buy and smoke. You can educate yourself, and create a useful device, that will help you to figure out, how different temperature affects the effect that user has. 
+ 
