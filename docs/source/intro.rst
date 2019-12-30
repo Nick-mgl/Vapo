@@ -39,4 +39,8 @@ Steve DeAngelo, “The manifesto of cannabis”
 Herbs should help you to grow, to become better. If you decided to consume it, be responsible for your life, your behavior, and everything that happens to you. Respect other people, and try to figure out how to benefit from consuming herbs.
 
 I want to support the idea of smart consumption with my project. You can not just buy and smoke. You can educate yourself, and create a useful device, that will help you to figure out, how different temperature affects the effect that user has. 
+
+Future plans
+-----------------
  
+Honestly, I just want to find like-minded people. When I find such people, I will be happy to create something together. People, who can risk, who can support. It would be great to have new friends and connections. I believe, that anyone can get anywhere if he or she has a great team.

@@ -45,6 +45,7 @@ Contents:
    :maxdepth: 2
     
    source/intro
+   source/where
 
 **************************
 Disclaimer:
