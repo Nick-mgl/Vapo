@@ -24,3 +24,7 @@ How to use it
 -----------------
 
 In this section, I will provide some ideas to you regarding the usage of the device that you have created! 
+
+The information is about to be updated. The documentation will be published step-by-step. Please SUBSCRIBE_ to receive updates.
+
+.. _SUBSCRIBE: https://www.mogoool.com/subscribe
