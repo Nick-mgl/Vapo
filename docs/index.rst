@@ -46,6 +46,10 @@ Contents:
     
    source/intro
    source/where
+   source/production
+   source/testing
+   source/maintenance
+   source/ideas
 
 **************************
 Disclaimer:
