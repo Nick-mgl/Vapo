@@ -9,7 +9,10 @@ How to improve it
 There are many areas of how you can improve this device: 
 
 - add battery level
+- modify turn on/off switch
 - make auto-turn off
+- improve convection and conduction heating technology
+- improve battery life 
 - chamber cooler between sessions
 - add micro USB-charger
 - add temperature scale

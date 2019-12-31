@@ -46,7 +46,15 @@ Contents:
     
    source/intro
    source/where
-   source/production
+   source/productionbody
+   source/productionwalls
+   source/productionpipe
+   source/productioninnerstructure
+   source/productionchamber
+   source/productionbuttons
+   source/productionproductionelectronics
+   source/productionapp
+   source/productionassemble
    source/testing
    source/maintenance
    source/ideas
