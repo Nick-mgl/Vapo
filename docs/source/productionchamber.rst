@@ -18,6 +18,7 @@ Here is the picture that demonstrates the difference:
 
 .. image:: https://github.com/Nick-mgl/Vapo/blob/master/docs/files/images/5chamber/Conduction-vs-Convection-vaporizer.jpg
   :width: 400
+  
 
 Source: kingpenvapes.com_
 
@@ -29,16 +30,19 @@ The heating chamber in this project has both ways of heating.  Therefore, there 
 
 .. image:: https://github.com/Nick-mgl/Vapo/blob/master/docs/files/images/5chamber/Chamber_scheme.jpg
   :width: 400
+  
 
 There are three parts made of ceramic and one part (small grill) made of metal.
 
 .. image:: https://github.com/Nick-mgl/Vapo/blob/master/docs/files/images/5chamber/Chamber_parts.jpg
   :width: 400
+  
 
 Assembled heating chamber with heating coils inside and wires.
 
 .. image:: https://github.com/Nick-mgl/Vapo/blob/master/docs/files/images/5chamber/Chamber_wires.jpg
   :width: 400
+
 
 1.2 Materials
 -----------------
