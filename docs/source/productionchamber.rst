@@ -1,12 +1,3 @@
-.. |pic1| image:: https://github.com/Nick-mgl/Vapo/blob/master/docs/files/images/5chamber/Conduction-vs-Convection-vaporizer.jpg
-
-.. |pic2| image:: https://github.com/Nick-mgl/Vapo/blob/master/docs/files/images/5chamber/Chamber_scheme.jpg
-
-.. |pic3| image:: https://github.com/Nick-mgl/Vapo/blob/master/docs/files/images/5chamber/Chamber_parts.jpg
-
-.. |pic4| image:: https://github.com/Nick-mgl/Vapo/blob/master/docs/files/images/5chamber/Chamber_wires.jpg
-
-
 5 - Chamber (under dev.)
 ============
 
@@ -25,7 +16,7 @@ There are two ways of heating that common vaporizers have: conduction and convec
 
 Here is the picture that demonstrates the difference:
 
-|pic1|
+.. image:: https://github.com/Nick-mgl/Vapo/blob/master/docs/files/images/5chamber/Conduction-vs-Convection-vaporizer.jpg
 
 Source: kingpenvapes.com_
 
@@ -35,15 +26,15 @@ There are pros and cons in both of these ways. Therefore, to eliminate the cons 
 
 The heating chamber in this project has both ways of heating.  Therefore, there are two coils. One coil heats the inner walls of the chamber. Oner one heats the air that flows through the herbs.
 
-|pic2|
+.. image:: https://github.com/Nick-mgl/Vapo/blob/master/docs/files/images/5chamber/Chamber_scheme.jpg
 
 There are three parts made of ceramic and one part (small grill) made of metal.
 
-|pic3|
+.. image:: https://github.com/Nick-mgl/Vapo/blob/master/docs/files/images/5chamber/Chamber_parts.jpg
 
 Assembled heating chamber with heating coils inside and wires.
 
-|pic4|
+.. image:: https://github.com/Nick-mgl/Vapo/blob/master/docs/files/images/5chamber/Chamber_wires.jpg
 
 1.2 Materials
 -----------------
