@@ -1,8 +1,8 @@
-.. |pic1| image:: files/images/5chamber/Conduction-vs-Convection-vaporizer.jpg
+.. |pic1| image:: https://github.com/Nick-mgl/Vapo/blob/master/docs/files/images/5chamber/Conduction-vs-Convection-vaporizer.jpg
 
-.. |pic2| image:: files/images/5chamber/Chamber_scheme.jpg
+.. |pic2| image:: https://github.com/Nick-mgl/Vapo/blob/master/docs/files/images/5chamber/Chamber_scheme.jpg
 
-.. |pic3| image:: files/images/5chamber/Chamber_parts.jpg
+.. |pic3| image:: https://github.com/Nick-mgl/Vapo/blob/master/docs/files/images/5chamber/Chamber_parts.jpg
 
 .. |pic4| image:: https://github.com/Nick-mgl/Vapo/blob/master/docs/files/images/5chamber/Chamber_wires.jpg
 
