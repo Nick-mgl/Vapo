@@ -60,6 +60,17 @@ Assembled heating chamber with heating coils inside and wires.
 1.6 Files
 -----------------
 
+.. figure::  ../files/images/5chamber/Parts_size.jpg
+   :align:  center
+   :width:  400
+   
+ :download:`Part 1 Cylinder <../files/STL/cylinder.stl>`
+ 
+ :download:`Part 2 Head <../files/STL/head.stl>`
+ 
+ :download:`Part 3 Bottom <../files/STL/bottom.stl>`
+
+
 1.7 Preparation
 -----------------
 
