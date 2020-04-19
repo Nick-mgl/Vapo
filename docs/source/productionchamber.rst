@@ -16,14 +16,7 @@ There are two ways of heating that common vaporizers have: conduction and convec
 
 Here is the picture that demonstrates the difference:
 
-.. figure::  images/5chamber/Conduction-vs-Convection-vaporizer.jpg
-   :align:   center
-
-.. figure::  ../files/images/pic_mainpage.png
-   :align:   center
-   :width: 400
-
-.. figure::  ../../files/images/pic_mainpage.png
+.. figure::  ../files/images/5chamber/Conduction-vs-Convection-vaporizer.jpg
    :align:   center
    :width: 400
 
