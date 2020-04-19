@@ -18,23 +18,11 @@ Here is the picture that demonstrates the difference:
 
 .. figure::  images/5chamber/Conduction-vs-Convection-vaporizer.jpg
    :align:   center
+
+.. figure::  files/images/pic_mainpage.png
+   :align:   center
    :width: 400
   
-.. figure:: ../images/5chamber/Conduction-vs-Convection-vaporizer.jpg
-    :width: 200px
-    :align: center
-    :height: 100px
-    :alt: alternate text
-    :figclass: align-center
-
-    figure are like images but with a caption
-
-    and whatever else youwish to add
-
-    .. code-block:: python
-
-        import image
-
 Source: kingpenvapes.com_
 
 .. _kingpenvapes.com: https://kingpenvapes.com/kpv-blog/conduction-and-convection/
