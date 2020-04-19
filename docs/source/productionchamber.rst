@@ -48,6 +48,8 @@ Assembled heating chamber with heating coils inside and wires.
 1.2 Materials
 -----------------
 
+For ceramic parts: MACOR Machinable Glass Ceramic Rod - `More information <https://www.corning.com/ru/ru/products/advanced-optics/product-materials/specialty-glass-and-glass-ceramics/glass-ceramics/macor.html>`_
+
 1.3 Tools
 -----------------
 
