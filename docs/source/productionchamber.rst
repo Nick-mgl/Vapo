@@ -64,11 +64,13 @@ Assembled heating chamber with heating coils inside and wires.
    :align:  center
    :width:  400
    
- :download:`Part 1 Cylinder <../files/STL/cylinder.stl>`
+Links for STL files
+
+1 :download:`Cylinder <../files/STL/cylinder.stl>`
  
- :download:`Part 2 Head <../files/STL/head.stl>`
+2 :download:`Head <../files/STL/head.stl>`
  
- :download:`Part 3 Bottom <../files/STL/bottom.stl>`
+3 :download:`Bottom <../files/STL/bottom.stl>`
 
 
 1.7 Preparation
